@@ -1,0 +1,61 @@
+{
+  "id": "f3ba24ce-6415-4a2e-b869-ee5e5710c9b4",
+  "uid": "ut-occaecati-in",
+  "type": "posts",
+  "data": {
+    "title": "visualize viral web-readiness",
+    "subtitle": "drive web-enabled ROI",
+    "author": "drive frictionless architectures",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "revolutionize extensible bandwidth",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Cupidatat cupidatat Lorem reprehenderit cillum nisi cupidatat sunt labore. Officia dolor non quis commodo voluptate. Excepteur velit deserunt labore adipisicing dolor ex ullamco labore nisi.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "seize dynamic eyeballs",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Consequat in amet Lorem exercitation voluptate nisi.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "deploy extensible synergies",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ipsum ad duis veniam nisi do nulla proident. Nulla nisi non enim non ipsum incididunt officia Lorem. Laboris duis pariatur pariatur consectetur.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "repurpose e-business bandwidth",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Quis cillum pariatur officia.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}

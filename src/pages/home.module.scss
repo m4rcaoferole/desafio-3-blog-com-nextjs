@@ -1,1 +1,52 @@
-// TODO
+.posts {
+  margin-bottom: 4rem;
+  transition: 0.5s;
+
+  > a {
+    display: block;
+    & + a {
+      margin-top: 4rem;
+    }
+  }
+
+  button {
+    border: none;
+    background: none;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--highlight);
+    margin-top: 4rem;
+  }
+}
+
+.post {
+  margin-bottom: 4rem;
+
+  strong {
+    font-size: 1.75rem;
+    font-weight: bold;
+
+    &:hover {
+      color: rgb(187, 187, 4);
+    }
+  }
+
+  p {
+    margin-top: 0.5rem;
+    font-size: 1.125rem;
+  }
+
+  ul {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 1.5rem;
+
+    li {
+      font-size: 0.875rem;
+
+      svg {
+        margin-right: 0.5rem;
+      }
+    }
+  }
+}
